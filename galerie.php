@@ -7,5 +7,4 @@ $titre = "Galerie";
 require_once "php/header.php"; 
 require_once "php/section-galerie.php";
 require_once "php/footer.php";
-
 ?>

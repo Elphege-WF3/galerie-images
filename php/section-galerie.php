@@ -88,5 +88,4 @@ lightbox.addEventListener('click', function(){
         </script>
     </article>
 
-
 </section>
