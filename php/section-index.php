@@ -1,6 +1,6 @@
 <section>
 
-    <h2>Bienvenue sur le projet Galerie Images</h2>
+    <h2>Bienvenue</h2>
     <article>
         <h3>Voici l'image du logo dans sa taille originale</h3>
         <br>
