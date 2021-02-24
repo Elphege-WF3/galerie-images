@@ -48,7 +48,7 @@
 $a = [
     // "cle"        => "valeur"
     "index.php"     => 'Accueil',
-    "galerie.php"   => 'Galerie',
+    "galerie.php"   => 'Galerie Images',
 ];
 foreach($a as $cle => $valeur)
 {
