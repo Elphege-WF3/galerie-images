@@ -12,7 +12,7 @@
         </div>
     </article> -->
     <article>
-        <h3>Cliquer sur une image pour la voir en plus grand</h3>
+        <h3>Cliquer sur une image pour la voir de plus près</h3>
         <p>Cliquer à nouveau dessus pour revoir la galerie</p>
         <div class="galerie">
 <?php

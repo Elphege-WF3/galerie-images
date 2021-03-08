@@ -15,6 +15,7 @@ html, body {
 
 img {
     width: 100%;
+    max-width: 750px;
     border: 1px solid black;
 }
 
